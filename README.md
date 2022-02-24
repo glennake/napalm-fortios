@@ -54,7 +54,6 @@ Install napalm and napalm-fortios via pip:
 ```
 $ pip install napalm napalm-fortios
 ```
-```
 
 Test functionality:
 ```
